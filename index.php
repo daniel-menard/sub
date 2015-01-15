@@ -1,1 +1,1 @@
-version initiale
+Version initiale.
